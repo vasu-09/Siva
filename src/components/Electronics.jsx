@@ -11,7 +11,7 @@ import item3 from '../assets/electronics/maverick_1.png';
 import item4 from '../assets/electronics/mcb-and-dp.jpg';
 import item5 from '../assets/electronics/switches.jpg';
 import item6 from '../assets/electronics/wires.jpg';
-import item7 from '../assets/electronics/image0_75acc70d-1cc1-41ff-b487-b3e924208eb5.png';
+import item7 from '../assets/electronics/image.png';
 import item8 from '../assets/electronics/download.jpg';
 import item9 from '../assets/electronics/download (12).jpg';
 import item10 from '../assets/electronics/download (19).jpg';
